@@ -65,3 +65,4 @@ class Square:
                 if j != (self.size - 1):
                     sqstr += "\n"
         return (sqstr)
+        
