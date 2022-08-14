@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-"""  Class that inherits from list """
-
+"""My list
+Author: Kanneh
+"""
 
 class MyList(list):
     """ Class that inherits from list """
