@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+"""Author: Kanneh"""
 
 def lookup(obj):
     """ function that returns the list of available attributes
